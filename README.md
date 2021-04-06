@@ -1,6 +1,6 @@
-# bulk_renamer
- Bulk renamer with mapping dictionary.
- Creates a copy of target directory and rename all files and subdirectories according to the mapping dictionary.
+# Bulk Renamer
+ Bulk file and folder renamer with mapping dictionary.
+ Creates a copy of target directory and renames all files and subdirectories according to the mapping dictionary.
 
  Use as following:
  ```
