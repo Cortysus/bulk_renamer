@@ -14,7 +14,7 @@
  This command will create a new folder `orig_folder_copy`. All the files and subdirectories of `orig_folder` are copied into `orig_folder_copy` and renamed according to `mapping_dict.json`.
  
  ## Use
- In order to use the program, replace the `mapping_dict.json` with your desired renaming dictionary.
+ In order to use the program, replace the content of `mapping_dict.json` with your desired renaming rules.
  Use the program on a custom directory `folder_to_bulk_rename` by executing the following command:
  ```
  python main.py folder_to_bulk_rename
