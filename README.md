@@ -3,7 +3,7 @@
  Creates a copy of target directory and renames all files and subdirectories according to the mapping dictionary.
  It is compatible with Python 2.7.18.
  
- Copies are created in the same parent directory as the target directory.
+ Copies are created in the same parent directory of the target directory.
 
  ## Test
  For a quick look at the program's functionality, execute the following command in the cloned repository:
