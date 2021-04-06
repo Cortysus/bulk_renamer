@@ -1,6 +1,7 @@
 # Bulk Renamer
  Bulk file and folder renamer with mapping dictionary.
  Creates a copy of target directory and renames all files and subdirectories according to the mapping dictionary.
+ It is compatible with Python 2.7.18.
  
  Copies are created in the same parent directory as the target directory.
 
