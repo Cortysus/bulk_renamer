@@ -6,7 +6,7 @@
  Copies are created in the same parent directory of the target directory.
 
  ## Test
- For a quick look at the program's functionality, execute the following command in the cloned repository:
+ For a quick look at the program's functionality, execute the following command in the repository root folder:
  ```
  python main.py orig_folder
  ```
@@ -14,7 +14,7 @@
  This command will create a new folder `orig_folder_copy`. All the files and subdirectories of `orig_folder` are copied into `orig_folder_copy` and renamed according to `mapping_dict.json`.
  
  ## Use
- In order to use the program, create a `mapping_dict.json` with your desired renaming mapping. 
+ In order to use the program, replace the `mapping_dict.json` with your desired renaming dictionary.
  Use the program on a custom directory `folder_to_bulk_rename` by executing the following command:
  ```
  python main.py folder_to_bulk_rename
