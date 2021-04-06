@@ -15,7 +15,7 @@
  
  ## Use
  In order to use the program, create a `mapping_dict.json` with your desired renaming mapping. 
- Use the program by executing the following command:
+ Use the program on a custom directory `folder_to_bulk_rename` by executing the following command:
  ```
  python main.py folder_to_bulk_rename
  ```
